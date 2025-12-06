@@ -1,6 +1,6 @@
 ## 🌟 Hey there! I'm Zaka
 
-A third-year AI & Data Science student who loves turning data into meaningful insights.  
+A third-year AI & Data Science student 
 I'm constantly exploring ML, DSA patterns, and how technology shapes the future.
 
 ### 💡 I Love Working On
