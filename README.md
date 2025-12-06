@@ -12,7 +12,7 @@ I'm constantly exploring ML, DSA patterns, and how technology shapes the future.
 Python · C++ · SQL · Pandas · NumPy · Scikit-Learn · Git · Jupyter
 
 ### 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/zaka-salman-2b166b2a3/) | [Email](salmanzaka01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/zaka-salman-2b166b2a3/) | [Email](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWsCPbbVkgklrzglLbVXPWkzRQZPmrGBxspBBNDlhMDzDTfZvZWRwqXNKbRrddDhWxVgtChVQ)
 
 Happy Learning 😃
 <!--
