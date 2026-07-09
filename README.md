@@ -1,5 +1,5 @@
 <h1 align="center">Md Zaka Salman</h1>
-<h3 align="center">AI/DS Student → Building ML products → Looking for an internship</h3>
+<h3 align="center">AI/DS Student → Building ML products → Looking for an optunities</h3>
 <p align="center">
 📧 <a href="mailto:salmanzaka01@gmail.com">Email</a> &nbsp;|&nbsp;
 💼 <a href="https://www.linkedin.com/in/zaka-salman-2b166b2a3/">LinkedIn</a> &nbsp;|&nbsp;
