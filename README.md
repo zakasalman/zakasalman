@@ -3,7 +3,6 @@
 <p align="center">
 📧 <a href="mailto:salmanzaka01@gmail.com">Email</a> &nbsp;|&nbsp;
 💼 <a href="https://www.linkedin.com/in/zaka-salman-2b166b2a3/">LinkedIn</a> &nbsp;|&nbsp;
-📊 <a href="your-tableau-url">Tableau</a> &nbsp;|&nbsp;
 🚀 <a href="https://6fubwxqjakwhwzfaxhqebh.streamlit.app/">Live Project</a>
 </p>
 
